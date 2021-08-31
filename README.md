@@ -23,12 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/desktop-design.png)
+![](./screenshots/mobile-design.png)
 
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://erwinruiz.github.io/single-price-grid-component/)
 
 ## My process
 
